@@ -1,7 +1,7 @@
 # Tejal18
 I am computer science engineer. I am a data science enthusiast. I am interested in learning machine learning and artificial intelligence.
 
-![cover-image](https://user-images.githubusercontent.com/./cover-image.png)
+![Tejal Joshi's cover](./cover-image.png)
 
 ## 🧔 About Me
 
