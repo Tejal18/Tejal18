@@ -46,4 +46,4 @@ I am computer science engineer. I am a data science enthusiast. I am interested 
 ## 🤝 Connect
 
 [![Skill](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejal-joshi-30bb3b1a1/)
-[![Skill](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tejal18)# Tejal18
+[![Skill](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tejal18)
