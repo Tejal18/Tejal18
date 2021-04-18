@@ -17,7 +17,7 @@ I am computer science engineer. I am a data science enthusiast. I am interested 
 
 ## ✍ My Work
 
-[![Jaagrav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tejal18&show_icons=true&theme=dark)](https://github.com/Tejal18)
+[![Tejal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tejal18&show_icons=true&theme=dark)](https://github.com/Tejal18)
 
 
 ## 📚 My Skills
